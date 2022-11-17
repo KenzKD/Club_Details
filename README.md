@@ -10,11 +10,11 @@
 7. Setup Server
 8. Finish Taskphase #1
 7. Setup Perforce on Server
-9. Start Game Creation Steps
+9. Start Game Creation Steps [Ongoing]
 10. Finish Taskphase #2 and have them join the Game Creation Steps
 11. Credits for Server is Over
 12. Board Transfer Interview
-13. Get College Sponosorship for Server(Rs. 683.71 / Month)
+13. Get College Sponosorship for Server(Rs. 683.71 / Month) [Ongoing]
 
 
 ### Expectations
